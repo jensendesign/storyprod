@@ -1,2 +1,2 @@
 # storyprod
-storybook prod github pages
+Storybook Github Pages - production
